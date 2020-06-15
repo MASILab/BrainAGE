@@ -12,7 +12,7 @@ Bermudez, C., Plassard, A. J., Chaganti, S., Huo, Y., Aboud, K. S., Cutting, L. 
 This networks predicts chronological age using two inputs: 
 
 1) A T1-weighted brain MRI registered to MNI-305space and intensity-normalized (see manuscript for details)
-2) Volumetric estimates of 132 brain regions following the BrainCOLOR protocol. I reccommend using [SLANT](https://github.com/MASILab/SLANTbrainSeg) to obtain this automated segmentation. 
+2) Volumetric estimates of 132 brain regions following the BrainCOLOR protocol. I recommend using [SLANT](https://github.com/MASILab/SLANTbrainSeg) to obtain this automated segmentation. 
     
   
 
